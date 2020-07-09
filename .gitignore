@@ -1,2 +1,4 @@
-# Project exclude paths
 /site/
+venv
+create.txt
+.gitignore
